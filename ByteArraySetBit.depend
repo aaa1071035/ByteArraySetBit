@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1704954319 source:c:\users\cody\desktop\codes\bytearraysetbit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+	<string.h>
+
